@@ -6,7 +6,7 @@ Soy aprendiz de desarrollo de software y un apasionado total del mundo **Linux**
 
 ---
 
-### 🤖 Mi forma de programar (Desarrollo con IA)
+### 🤖 En cuandto a mi forma de programar 
 No creo en reinventar la rueda a ciegas: **aprendo y construyo trabajando mano a mano con la Inteligencia Artificial como mi copiloto y asistente de aprendizaje**. 
 
 La uso para explorar nuevas librerías, entender documentación densa y acelerar el desarrollo mediante *Pair Programming*. La IA me sugiere y me acompaña, pero las decisiones de arquitectura, la lógica de negocio, las pruebas en hardware real y el rumbo de cada proyecto los dirijo yo.
