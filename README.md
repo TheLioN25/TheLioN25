@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! 
 
-Soy aprendiz de desarrollo de software y un apasionado total del mundo **Linux**, el código limpio y los periféricos de PC. Me encanta entender cómo funcionan las cosas por debajo y crear herramientas que solucionen necesidades reales en el día a día.
+Soy aprendiz de desarrollo de software y un apasionado total del mundo **Linux**, me gusta entender cómo funcionan las cosas por debajo y si sí se da, entonces crear herramientas que solucionen necesidades reales.
 
 ---
 
