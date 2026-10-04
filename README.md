@@ -13,7 +13,8 @@ La uso para explorar nuevas librerías, entender documentación densa y acelerar
 
 ---
 
-### 🛠️ Lo que uso y me divierte trastear
+### 🛠️ Lo que uso y me divierte provar
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GTK4](https://img.shields.io/badge/GTK4-Libadwaita-4A90E2?style=for-the-badge&logo=gnome&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Arch%20%7C%20CachyOS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
