@@ -1,6 +1,6 @@
 # ¡Hola, soy TheLioN25! 👋
 
-¡Bienvenido a mi perfil de GitHub! 
+¡Este es mi perfil de GitHub! 
 
 Soy aprendiz de desarrollo de software y un apasionado total del mundo **Linux**. Me gusta entender cómo funcionan las cosas por debajo y crear herramientas nativas que solucionen necesidades reales del día a día.
 
